@@ -639,6 +639,16 @@ section {
   line-height: 24px;
   font-size: 14px;
 }
+.services-card{
+  padding: 2rem 1rem ;
+  background-color: #fafff7;
+  border-radius:15px;
+  font-weight: 600;
+  letter-spacing: 1px;
+  font-family: 'Times New Roman', Times, serif;
+  text-align: justify;
+  width: 90%;
+}
 
 /*--------------------------------------------------------------
 # Testimonials
